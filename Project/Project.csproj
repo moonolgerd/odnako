@@ -56,7 +56,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="TabGroupPaneActiveAwareBehavior.cs" />
+    <Compile Include="TabGroupPaneDynamicRegionBehavior.cs" />
     <Compile Include="TabGroupPaneRegionAdapter.cs" />
+    <Compile Include="XamRibbonRegionAdapter.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
