@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="MyBootStrapper.cs" />
     <Compile Include="TabGroupPaneActiveAwareBehavior.cs" />
     <Compile Include="TabGroupPaneDynamicRegionBehavior.cs" />
     <Compile Include="TabGroupPaneRegionAdapter.cs" />
