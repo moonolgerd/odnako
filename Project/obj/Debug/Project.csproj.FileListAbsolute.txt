@@ -1,0 +1,6 @@
+C:\Users\Oleg\Source\Repos\odnako\Project\bin\Debug\Project.exe.config
+C:\Users\Oleg\Source\Repos\odnako\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Source\Repos\odnako\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Oleg\Source\Repos\odnako\Project\obj\Debug\App.g.cs
+C:\Users\Oleg\Source\Repos\odnako\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Oleg\Source\Repos\odnako\Project\obj\Debug\Project_MarkupCompile.lref

@@ -1,8 +1,11 @@
-﻿using System;
+﻿using Prism.Regions;
+using Prism.Regions.Behaviors;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace Project
 {
